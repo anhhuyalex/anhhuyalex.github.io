@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alex Nguyen"
 title_separator          : "-"
 name                     : &name "Alex Nguyen"
-description              : &description "PhD Student at Princeton Neuroscience Institute"
+description              : &description #"PhD Student at Princeton Neuroscience Institute"
 url                      : https://anhhuyalex.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 theme                    : jekyll-theme-minimal
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Alex Nguyen"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : "PhD Student at the Princeton Neuroscience Institute"
   location         : "Princeton, NJ, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
