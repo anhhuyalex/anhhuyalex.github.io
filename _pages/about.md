@@ -14,17 +14,21 @@ Hello! I'm a 4th-year PhD student at the Princeton Neuroscience Institute, curre
 
 ## [Learning Renormalization with a Convolutional Neural Network](https://ml4physicalsciences.github.io/2019/files/NeurIPS_ML4PS_2019_148.pdf)
 Published in Machine Learning for the Physical Sciences, 2019, a workshop at the 33rd Conference on Neural Information Processing Systems (NeurIPS).  
+
 <span style="color:red">Alex Nguyen, Kiel Howe (2019)</span>.
 
 
 ## [Differentiation and Integration of Competing Memories: A Neural Network Model](https://www.biorxiv.org/content/10.1101/2023.04.02.535239v2)
 Accepted as a Reviewed Preprint at eLife.
+
 <span style="color:red">Victoria J. H. Ritvo, Alex Nguyen, Nicholas B. Turk-Browne, Kenneth A. Norman (2022)</span>.
 
 ## [Reconstructing the Mind’s Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors](https://arxiv.org/abs/2305.18274)
 Published at the 37th Conference on Neural Information Processing Systems (NeurIPS).
+
 <span style="color:red">Paul S. Scotti, Atmadeep Banerjee, Jimmie Goode, Stepan Shabalin, Alex Nguyen, Ethan Cohen, Aidan J. Dempster, Nathalie Verlinde, Elad Yundler, David Weisberg, Kenneth A. Norman, Tanishq Mathew Abraham (2023)</span>.
 
 ## [Inducing representational change in the hippocampus through real-time neurofeedback](https://www.biorxiv.org/content/10.1101/2023.12.01.569487v1)
+
 <span style="color:red">Kailong Peng, Jeffrey D. Wammes, Alex Nguyen, Marius Cătălin Iordan, Kenneth A. Norman, Nicholas B. Turk-Browne (2023)</span>.
 
