@@ -13,9 +13,14 @@ Hello! I'm a 4th-year PhD student at the Princeton Neuroscience Institute, curre
 # Publications
 
 ## Learning Renormalization with a Convolutional Neural Network
+Published in Machine Learning for the Physical Sciences, 2019, a workshop at the 33rd Conference on Neural Information Processing Systems (NeurIPS).  
+<span style="color:red">Alex Nguyen, Kiel Howe (2019)</span>.
+
 
 ## Differentiation and Integration of Competing Memories: A Neural Network Model
+Accepted as a Reviewed Preprint at eLife.
 
 ## Reconstructing the Mind’s Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors.
+Published in Machine Learning for the Physical Sciences, 2019, a workshop at the 33rd Conference on Neural Information Processing Systems (NeurIPS).
 
 ## Inducing representational change in the hippocampus through real-time neurofeedback
