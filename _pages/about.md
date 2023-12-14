@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a 4th-year PhD student at the Princeton Neuroscience Institute, currently working with [Ken Norman](http://compmem.princeton.edu/). I'm interested in computational and statistical models of learning and memory. Here is my [CV](/files/CV.pdf).
+Hello! I'm a 4th-year PhD student at the Princeton Neuroscience Institute, currently working with [Ken Norman](http://compmem.princeton.edu/). I'm interested in building neural network models that shed light on learning dynamics and representational change during learning in the hippocampus and in deep neural networks. I am also interested in generative modelling of fMRI data. Here is my [CV](/files/CV.pdf).
