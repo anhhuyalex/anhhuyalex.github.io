@@ -30,5 +30,5 @@ Paul S. Scotti, Atmadeep Banerjee, Jimmie Goode, Stepan Shabalin, **Alex Nguyen*
 
 ## [Inducing representational change in the hippocampus through real-time neurofeedback](https://www.biorxiv.org/content/10.1101/2023.12.01.569487v1)
 
-Kailong Peng, Jeffrey D. Wammes, **Alex Nguyen**, Marius Cătălin Iordan, Kenneth A. Norman, Nicholas B. Turk-Browne (2023)
+Kailong Peng, Jeffrey D. Wammes, **Alex Nguyen**, Coraline Rinn Iordan, Kenneth A. Norman, Nicholas B. Turk-Browne (2023)
 
