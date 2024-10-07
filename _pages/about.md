@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm a 4th-year PhD student at the Princeton Neuroscience Institute, currently working with [Ken Norman](http://compmem.princeton.edu/). I am interested in building neural network models that shed light on learning dynamics and representational change in the hippocampus and in deep neural networks. I am also interested in generative modelling of fMRI data. Here is my [CV](/files/CV.pdf).
+Hello! I'm a 5th-year PhD student at the Princeton Neuroscience Institute, currently working with [Ken Norman](http://compmem.princeton.edu/). I am interested in building neural network models that shed light on learning dynamics and representational change in the hippocampus and in deep neural networks. I am also interested in generative modelling of fMRI data. Here is my [CV](/files/CV.pdf).
 
 # Pre-Prints
 ### [Generalization vs. Specialization under Concept Shift](https://arxiv.org/abs/2409.15582)
