@@ -11,16 +11,16 @@ redirect_from:
 Hello! I'm a 5th-year PhD student at the Princeton Neuroscience Institute, currently working with [Ken Norman](http://compmem.princeton.edu/). I am interested in building neural network models that shed light on learning dynamics and representational change in the hippocampus and in deep neural networks. I am also interested in generative modelling of fMRI data. Here is my [CV](/files/CV.pdf).
 
 # Pre-Prints
-### [Differential learning kinetics govern the transition from memorization to generalization during in-context learning](https://arxiv.org/abs/2412.00104)
-arXiv preprint.
-**Alex Nguyen**, Gautam Reddy (2024). 
 
 ### [Generalization vs. Specialization under Concept Shift](https://arxiv.org/abs/2409.15582)
 arXiv preprint.
 **Alex Nguyen**, David Schwab, Vudtiwat Ngampruetikorn (2024). 
 
-
 # Publications
+### [Differential learning kinetics govern the transition from memorization to generalization during in-context learning](https://arxiv.org/abs/2412.00104)
+Published at the Thirteenth International Conference on Learning Representations (ICLR). **Spotlight Paper**.
+**Alex Nguyen**, Gautam Reddy (2025). 
+
 ### [Differentiation and Integration of Competing Memories: A Neural Network Model](https://elifesciences.org/reviewed-preprints/88608)
 Accepted as a Reviewed Preprint at eLife.
 
