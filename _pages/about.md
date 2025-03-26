@@ -19,6 +19,7 @@ arXiv preprint.
 # Publications
 ### [Differential learning kinetics govern the transition from memorization to generalization during in-context learning](https://arxiv.org/abs/2412.00104)
 Published at the Thirteenth International Conference on Learning Representations (ICLR). **Spotlight Paper**.
+
 **Alex Nguyen**, Gautam Reddy (2025). 
 
 ### [Differentiation and Integration of Competing Memories: A Neural Network Model](https://elifesciences.org/reviewed-preprints/88608)
